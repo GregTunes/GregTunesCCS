@@ -31,7 +31,7 @@
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 "https://cdn.benzi.io/qluster/images/icons/cohost.png",
+        "host":                 "http://i.imgur.com/58nMNbs.png",
         "cohost":               "https://i.imgur.com/Qhh7mps.png",
         "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
         "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
